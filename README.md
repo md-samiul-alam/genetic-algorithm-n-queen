@@ -2,7 +2,7 @@
 
 It was my university project to implement genetic algorithm to solve N-Queen problem.
 
-N-Queen is a popular problem. The target is to place N number of queens on a chess board in such a way that they don't attack each other. Primarily this problem can be solved with back tracking algorithm but it takes a huge computational time to solve.
+N-Queen is a popular problem. The target is to place N number of queens on a N*N dimension chess board in such a way that they don't attack each other. Primarily this problem can be solved with back tracking algorithm but it takes a huge computational time to solve.
 
 We can introduce a bit of randomization and based on the fitness calculation of the initial random solutions, we can evolve to get better solutions.
 
