@@ -6,4 +6,4 @@ N-Queen is a popular problem. The target is to place N number of queens on a N*N
 
 We can introduce a bit of randomization and based on the fitness calculation of the initial random solutions, we can evolve to get better solutions.
 
-This is where genetic algorithms comes for. Every solutions are translated into a fixed length of genes. Among the best fitted genes, we make crossovers between them to produce new genes. Best few genes are choosed based on the fitness of the solutions. In this project, we used Davis Crossover. This process continues untill the maximum number of iteration has reached or the perfect solution is evolved.
+This is where genetic algorithms comes for. Every solutions are translated into a fixed length of genes. Among the best fitted genes, make crossovers between them to produce new genes. Best few genes are choosed based on the fitness of the solutions. In this project, I used Davis Crossover. This process continues untill the maximum number of iteration has reached or the perfect solution is evolved.
